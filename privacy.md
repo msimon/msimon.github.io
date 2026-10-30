@@ -5,10 +5,10 @@ permalink: /privacy.html
 
 # Privacy policy
 
-"Marc agent (perso)" is a personal automation tool used only by its owner, Marc Simon, to access his own Google account (Drive, Docs, Sheets, Calendar, Contacts and Gmail) from his own computer.
+This application is a private tool for personal use. It is not offered to the public.
 
-It is not offered to anyone else. No data is shared with third parties, sold, or used for advertising. Access tokens are stored locally in the owner's macOS Keychain, and data accessed through Google APIs stays on the owner's machine or in his own accounts.
+The application accesses Google user data only to provide its features to its user. Data is not sold, shared with third parties, or used for advertising.
 
-Google API data use complies with the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+Use of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
-Contact: marc.simon42@gmail.com
+Access can be revoked at any time from [Google Account permissions](https://myaccount.google.com/permissions).
